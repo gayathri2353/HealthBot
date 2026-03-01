@@ -17,13 +17,6 @@ An intelligent digital health assistant designed to promote wellness and provide
 - **Content Management**: Add/update health tips and precautions
 - **Dashboard**: Overall system statistics and insights
 
-## Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd health_wellness_chatbot
-
 
 
 
